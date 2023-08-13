@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SEDC.WebApi.Homework2.props" />
+</Project>
